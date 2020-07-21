@@ -7,8 +7,6 @@ To contribute:
  2. Edit README.md
  3. Open a pull request!
 
- **Note**: Locations may potentially span globally.
-
 ## The List
 
 | Name  |  Location |  Application Period |  Notes |
