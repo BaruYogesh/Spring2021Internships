@@ -1,6 +1,9 @@
 ﻿# Spring 2021 Internships
 2021 Spring Internships in Tech! Thanks to [ayushupneja](https://github.com/ayushupneja/fall2020internships) for making the list for Fall 2020. Thanks to [a37h](github.com/a37h) for the python script. Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration. Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for making a similar document for the 2020 season for more formatting inspiration! Utilize the Python Script to receive an outputted Excel-Friendly version
 
+[Summer 2021 Internships](https://github.com/Pitt-CSC/Summer2021-Internships)
+[Fall 2020 Internships](https://github.com/ayushupneja/fall2020internships)
+
 
 To contribute:
  1. Fork repository
