@@ -1,11 +1,25 @@
 ﻿# Spring 2021 Internships
 2021 Spring Internships in Tech! Thanks to [ayushupneja](https://github.com/ayushupneja/fall2020internships) for making the list for Fall 2020. Thanks to [a37h](github.com/a37h) for the python script. Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration. Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for making a similar document for the 2020 season for more formatting inspiration! Utilize the Python Script to receive an outputted Excel-Friendly version
 
+> Sites used to find internships include LinkedIn, Indeed, Glassdoor, and AngelList (startups).
+Summer 2019 Tech Internships!
+> Positions are geared towards Computer Science majors who may have intersectional interests such as Design, > Finance, Research, etc. All positions are open to anyone enrolled in a Bachelor's degree program.
 
 To contribute:
  1. Fork repository
  2. Edit README.md
  3. Open a pull request!
+
+ **Note**: Locations may potentially span globally.
+
+
+## Other Semesters
+
+[Fall 2020](https://github.com/ayushupneja/fall2020internships)
+
+[Summer 2021](https://github.com/Pitt-CSC/Summer2021-Internships)
+
+
 
 ## The List
 
@@ -20,3 +34,4 @@ To contribute:
 |  [Addepar](https://boards.greenhouse.io/addepar1/jobs/4796909002) | NYC | Present | |  
 |  [Northrup Grumman](https://lensa.com/2021-spring-co-op-technical-cyber-software-cincinnati-oh-jobs/cincinnati/jd/1e1ce769ba2488a1530e5741402ed9e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Present | Needs government clearance + Citizenship | 
 |  [Infinera](https://www.linkedin.com/jobs/view/firmware-engineer-co-op-at-infinera-1316942811/) | Sunnyvale, CA | Present | Needs Work-Authorization | 
+|  [CloudOps](https://www.linkedin.com/jobs/view/1957253149/) | Montreal, CA | Present | |
