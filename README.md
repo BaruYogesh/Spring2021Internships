@@ -19,3 +19,4 @@ To contribute:
 |  [Astranis](https://jobs.lever.co/astranis/d92ad6a7-7210-4027-9605-67f35a7c95c6?lever-source=Indeed) | SF | Present | Citizenship/Green card required |
 |  [Addepar](https://boards.greenhouse.io/addepar1/jobs/4796909002) | NYC | Present | |  
 |  [Northrup Grumman](https://lensa.com/2021-spring-co-op-technical-cyber-software-cincinnati-oh-jobs/cincinnati/jd/1e1ce769ba2488a1530e5741402ed9e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Present | Needs government clearance + Citizenship | 
+|  [Infinera](https://www.linkedin.com/jobs/view/firmware-engineer-co-op-at-infinera-1316942811/) | Sunnyvale, CA | Present | Needs Work-Authorization | 
