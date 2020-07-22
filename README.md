@@ -29,7 +29,8 @@ To contribute:
 |  [Second Order Effects](https://soeffects.com/careers/?gh_jid=4103302003&gh_src=1215890d3us) | El Segundo, CA | Present | |
 |  [Cambly](https://www.linkedin.com/jobs/view/software-engineering-intern-winter-spring-2021-at-cambly-inc-1828003093/) | SF | Present | |
 |  [Apple](https://jobs.apple.com/en-us/details/200180413/software-engineering-internship?team=STDNT) | Cupertino, CA | Present | Open year-round |
-|  [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0l1nco/aad1) | Chicago, IL | Present | |
+|  [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0l1nco/aad1) | Chicago, IL | Present | 	
+Sponsorship: Not available for this position |
 |  [Astranis](https://jobs.lever.co/astranis/d92ad6a7-7210-4027-9605-67f35a7c95c6?lever-source=Indeed) | SF | Present | Citizenship/Green card required |
 |  [Addepar](https://boards.greenhouse.io/addepar1/jobs/4796909002) | NYC | Present | |  
 |  [Northrup Grumman](https://lensa.com/2021-spring-co-op-technical-cyber-software-cincinnati-oh-jobs/cincinnati/jd/1e1ce769ba2488a1530e5741402ed9e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Present | Needs government clearance + Citizenship | 
