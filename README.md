@@ -35,4 +35,5 @@ To contribute:
 |  [Addepar](https://boards.greenhouse.io/addepar1/jobs/4796909002) | NYC | Present | |  
 |  [Northrup Grumman](https://lensa.com/2021-spring-co-op-technical-cyber-software-cincinnati-oh-jobs/cincinnati/jd/1e1ce769ba2488a1530e5741402ed9e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Closed | Needs government clearance + Citizenship | 
 |  [CloudOps](https://www.linkedin.com/jobs/view/1957253149/) | Montreal, CA | Closed | |
-|  [Intuit](https://jobs.intuit.com/job/-/-/27595/16929965) | Mississauga, Canada | | Present | |
+|  [Intuit](https://jobs.intuit.com/job/-/-/27595/16929965) | Mississauga, Canada | Present | | |
+|  [GE Transportation](https://www.indeed.com/q-Spring-Software-Engineering-Internship-jobs.html?vjk=e7064af9e0e930e4) | Erie, PA | Present | |
