@@ -37,3 +37,4 @@ To contribute:
 |  [CloudOps](https://www.linkedin.com/jobs/view/1957253149/) | Montreal, CA | Closed | |
 |  [Intuit](https://jobs.intuit.com/job/-/-/27595/16929965) | Mississauga, Canada | Present | | |
 |  [GE Transportation](https://www.indeed.com/q-Spring-Software-Engineering-Internship-jobs.html?vjk=e7064af9e0e930e4) | Erie, PA | Present | |
+|  [Hackerrank](https://www.linkedin.com/jobs/view/1959988765/) | Remote or Oregon, US | Present | |
