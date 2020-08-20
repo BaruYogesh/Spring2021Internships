@@ -39,4 +39,6 @@ To contribute:
 |  [GE Transportation](https://www.indeed.com/q-Spring-Software-Engineering-Internship-jobs.html?vjk=e7064af9e0e930e4) | Erie, PA | Present | |
 |  [Hackerrank](https://www.linkedin.com/jobs/view/1959988765/) | Remote or Oregon, US | Present | |
 |  [Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/Spring-2021---Software-Engineer-Intern_R380)| Denver, CO | Present | No housing/relocation | 
-|  [HubSpot](https://www.hubspot.com/careers/jobs/807217?gh_jid=807217&gh_src=cifv021)| Cambridge, MA | Present | |
+|  [HubSpot](https://www.hubspot.com/careers/jobs/807217?gh_jid=807217&gh_src=cifv021)| Cambridge, MA | Present | Sponsorship not available |
+|  [Amazon](https://www.amazon.jobs/en/jobs/1246145/software-development-engineer-intern-winter-2021-canada)| Vancouver, Canada | Present | |
+|  [SAP](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-HANA-&-Analytics-%28Early-Admission-for-Jan-2021%29-Job-BC-V6B-1A9/614317801/)| Vancouver, Canada | Present | |
