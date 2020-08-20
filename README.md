@@ -42,3 +42,4 @@ To contribute:
 |  [HubSpot](https://www.hubspot.com/careers/jobs/807217?gh_jid=807217&gh_src=cifv021)| Cambridge, MA | Present | Sponsorship not available |
 |  [Amazon](https://www.amazon.jobs/en/jobs/1246145/software-development-engineer-intern-winter-2021-canada)| Vancouver, Canada | Present | |
 |  [SAP](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-HANA-&-Analytics-%28Early-Admission-for-Jan-2021%29-Job-BC-V6B-1A9/614317801/)| Vancouver, Canada | Present | |
+|  [Thoughtexchange](https://jobs.lever.co/thoughtexchange/b4f3f244-835f-4f76-922a-b10e85df63de)| Vancouver, Canada | Present | |
