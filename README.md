@@ -40,3 +40,4 @@ To contribute:
 |  [Hackerrank](https://www.linkedin.com/jobs/view/1959988765/) | Remote or Oregon, US | Present | |
 |  [Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/Spring-2021---Software-Engineer-Intern_R380)| Denver, CO | Present | No housing/relocation | 
 |  [HubSpot](https://www.hubspot.com/careers/jobs/807217?gh_jid=807217&gh_src=cifv021)| Cambridge, MA | Present | |
+|  [Amazon](https://www.amazon.jobs/en/jobs/1247269/2021-winter-software-development-engineer-intern-sea)| Seattle, WA | Present | |
