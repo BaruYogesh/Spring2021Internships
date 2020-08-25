@@ -43,3 +43,10 @@ To contribute:
 |  [SAP](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-HANA-&-Analytics-%28Early-Admission-for-Jan-2021%29-Job-BC-V6B-1A9/614317801/)| Vancouver, Canada | Present | |
 |  [Thoughtexchange](https://jobs.lever.co/thoughtexchange/b4f3f244-835f-4f76-922a-b10e85df63de)| Vancouver, Canada | Present | |
 |  [Amazon](https://www.amazon.jobs/en/jobs/1246145/software-development-engineer-intern-winter-2021-canada)| Vancouver, Canada | Present | |
+|  [Johnson & Johnson](https://www.linkedin.com/jobs/view/software-engineering-co-op-spring-2021-at-johnson-johnson-1985239276/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Present| No Sponsorship | 
+|  [BMW Group](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.200002FB.US.Spartanburg-SouthCarolina.InformationTechnology.html) | Spartanburg, SC | Present | | 
+|  [Collins Aerospace](https://www.linkedin.com/jobs/view/software-engineering-co-op-spring-summer-2021-at-collins-aerospace-2001893026/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Richardson, TX | Present | DoD Clearance required |
+|  [Innovative Systems](http://career.innovativesystems.com/apply/9sdyztiZlK/InternshipCoop-Software-Engineering-Development-Spring-2021?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Pittsburg, PA | Present | | 
+|  [Leidos](https://www.linkedin.com/jobs/view/engineering-co-op-spring-2021-at-leidos-1975522772/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Bethesda, MD | Present | 6-12 month co-op. Secret Clearance required | 
+|  [Rockwell Collins](https://jobs.aviationjobnet.com/job/2369581/software-engineer-intern-summer-2021-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cedar Rapids, IA | Present | US Citizenship required | 
+|  [Shopify](https://www.shopify.com/careers/developer-internships-data-science-internships-winter-2021-826aeb) | Americas | Present | | 
