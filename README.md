@@ -51,3 +51,6 @@ To contribute:
 |  [Leidos](https://www.linkedin.com/jobs/view/engineering-co-op-spring-2021-at-leidos-1975522772/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Bethesda, MD | Present | 6-12 month co-op. Secret Clearance required | 
 |  [Rockwell Collins](https://jobs.aviationjobnet.com/job/2369581/software-engineer-intern-summer-2021-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cedar Rapids, IA | Present | US Citizenship required | 
 |  [Shopify](https://www.shopify.com/careers/developer-internships-data-science-internships-winter-2021-826aeb) | Americas | Present | | 
+|  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Canada-Toronto/Software-QA-Engineer-Intern---Spring-2021_JR1933347) | Toronto, Canada | Present | QA |
+|  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Canada-Remote/Deep-Learning-Engineering-Intern--Content---Technology---Spring-2021_JR1933350) | Canada, Remote | Present | Deep Learning |
+|  [Coinbase](https://www.coinbase.com/careers/positions/1724656) | San Francisco, CA - Remote | Present | Winter/Summer 2021 | 
