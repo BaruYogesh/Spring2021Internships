@@ -54,3 +54,5 @@ To contribute:
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Canada-Toronto/Software-QA-Engineer-Intern---Spring-2021_JR1933347) | Toronto, Canada | Present | QA |
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Canada-Remote/Deep-Learning-Engineering-Intern--Content---Technology---Spring-2021_JR1933350) | Canada, Remote | Present | Deep Learning |
 |  [Coinbase](https://www.coinbase.com/careers/positions/1724656) | San Francisco, CA - Remote | Present | Winter/Summer 2021 | 
+|  [Orbis Investments](https://chp.tbe.taleo.net/chp03/ats/careers/v2/viewRequisition?org=ORBIS2&cws=58&rid=930) | Vancouver, Canada | Present | | 
+|  [Twenty Billion Neurons](https://20bn.applytojob.com/apply/qNzoLPMDT3/Android-Developer-Intern-Coop) | Toronto, Canada | Present | [iOS](https://20bn.applytojob.com/apply/s345hno0k4/IOS-Developer-Intern-Coop), [UX/UI](https://20bn.applytojob.com/apply/yiMFQ4JneJ/UIUX-Developer-Intern-Coop) |
