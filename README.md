@@ -40,8 +40,8 @@ To contribute:
 |  [Hackerrank](https://www.linkedin.com/jobs/view/1959988765/) | Remote or Oregon, US | Present | |
 |  [Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/Spring-2021---Software-Engineer-Intern_R380)| Denver, CO | Present | No housing/relocation | 
 |  [HubSpot](https://www.hubspot.com/careers/jobs/807217?gh_jid=807217&gh_src=cifv021)| Cambridge, MA | Present | Sponsorship not available |
-|  [SAP](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-HANA-&-Analytics-%28Early-Admission-for-Jan-2021%29-Job-BC-V6B-1A9/614317801/)| Vancouver, Canada | Present | |
-|  [Thoughtexchange](https://jobs.lever.co/thoughtexchange/b4f3f244-835f-4f76-922a-b10e85df63de)| Vancouver, Canada | Present | |
+|  [SAP](https://jobs.sap.com/search/?createNewAlert=false&q=Intern&locationsearch=Vancouver&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=)| Vancouver, Canada | Present | |
+|  [Thoughtexchange](https://jobs.lever.co/thoughtexchange/b4f3f244-835f-4f76-922a-b10e85df63de)| Vancouver, Canada | Closed | |
 |  [Amazon](https://www.amazon.jobs/en/jobs/1246145/software-development-engineer-intern-winter-2021-canada)| Vancouver, Canada | Present | |
 |  [Amazon](https://www.amazon.jobs/en-gb/jobs/1247269/2021-winter-software-development-engineer-intern-sea?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | Present | |
 |  [Johnson & Johnson](https://www.linkedin.com/jobs/view/software-engineering-co-op-spring-2021-at-johnson-johnson-1985239276/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Present| No Sponsorship | 
