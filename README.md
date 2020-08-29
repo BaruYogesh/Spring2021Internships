@@ -60,3 +60,5 @@ To contribute:
 |  [Tesla](https://www.tesla.com/careers/job/software-integrationengineeringinternshipspring2021and-orsummer2021-68846) | Palo Alto, California | Present | Winter and/or Spring | 
 |  [RBC](https://jobs.rbc.com/ca/en/job/265217/Developer-RBC-Amplify-2021) | Toronto, Canada | Present | |
 |  [Ocient](http://www.ocient.com/careers?gh_jid=4105471003&gh_src=PittCSC) | Chicago, IL | Present | |
+|  [Fullscript](https://naturalpartnersfullscript.bamboohr.com/jobs/view.php?id=262&source=indeed&src=indeed&postedDate=2020-08-27) | Ottawa, Canada | Present | |
+|  [Explorance](https://explorance.applytojob.com/apply/ixDpOswXIt/Software-Development-Internship) | Montreal, Canada | Present | |
