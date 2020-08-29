@@ -59,3 +59,4 @@ To contribute:
 |  [BMO](https://bmo.wd3.myworkdayjobs.com/Campus/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Toronto, Canada | Present | |
 |  [Tesla](https://www.tesla.com/careers/job/software-integrationengineeringinternshipspring2021and-orsummer2021-68846) | Palo Alto, California | Present | Winter and/or Spring | 
 |  [RBC](https://jobs.rbc.com/ca/en/job/265217/Developer-RBC-Amplify-2021) | Toronto, Canada | Present | |
+|  [Ocient](http://www.ocient.com/careers?gh_jid=4105471003&gh_src=PittCSC) | Chicago, IL | Present | |
