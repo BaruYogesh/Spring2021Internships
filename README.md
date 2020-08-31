@@ -63,3 +63,4 @@ To contribute:
 |  [Ocient](http://www.ocient.com/careers?gh_jid=4105471003&gh_src=PittCSC) | Chicago, IL | Present | |
 |  [Fullscript](https://naturalpartnersfullscript.bamboohr.com/jobs/view.php?id=262&source=indeed&src=indeed&postedDate=2020-08-27) | Ottawa, Canada | Present | |
 |  [Explorance](https://explorance.applytojob.com/apply/ixDpOswXIt/Software-Development-Internship) | Montreal, Canada | Present | |
+|  [Yext](https://boards.greenhouse.io/yext/jobs/2291674) | NYC | Present | |
