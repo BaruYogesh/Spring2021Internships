@@ -41,7 +41,6 @@ To contribute:
 |  [Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/Spring-2021---Software-Engineer-Intern_R380)| Denver, CO | Present | No housing/relocation | 
 |  [HubSpot](https://www.hubspot.com/careers/jobs/807217?gh_jid=807217&gh_src=cifv021)| Cambridge, MA | Present | Sponsorship not available |
 |  [SAP](https://jobs.sap.com/search/?createNewAlert=false&q=Intern&locationsearch=Vancouver&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=)| Vancouver, Canada | Present | |
-|  [Thoughtexchange](https://jobs.lever.co/thoughtexchange/b4f3f244-835f-4f76-922a-b10e85df63de)| Vancouver, Canada | Closed | |
 |  [Amazon](https://www.amazon.jobs/en/jobs/1246145/software-development-engineer-intern-winter-2021-canada)| Vancouver, Canada | Present | |
 |  [Amazon](https://www.amazon.jobs/en-gb/jobs/1247269/2021-winter-software-development-engineer-intern-sea?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | Present | |
 |  [Johnson & Johnson](https://www.linkedin.com/jobs/view/software-engineering-co-op-spring-2021-at-johnson-johnson-1985239276/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Present| No Sponsorship | 
@@ -58,5 +57,9 @@ To contribute:
 |  [Twenty Billion Neurons](https://20bn.applytojob.com/apply/qNzoLPMDT3/Android-Developer-Intern-Coop) | Toronto, Canada | Present | [iOS](https://20bn.applytojob.com/apply/s345hno0k4/IOS-Developer-Intern-Coop), [UX/UI](https://20bn.applytojob.com/apply/yiMFQ4JneJ/UIUX-Developer-Intern-Coop) |
 |  [Later](https://jobs.lever.co/later/cf7fa0af-0839-425b-af28-041c8a95ec54) | Vancouver, Canada | Present | [Front End](https://jobs.lever.co/later/67216d43-e2d6-442b-8d41-51b2dae64c7f), [Mobile Dev](https://jobs.lever.co/later/716c04fa-70d9-45f6-b142-f1dda5a4cafd) |
 |  [BMO](https://bmo.wd3.myworkdayjobs.com/Campus/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Toronto, Canada | Present | |
-|  [Tesla](https://www.tesla.com/careers/job/software-integrationengineeringinternshipspring2021and-orsummer2021-68846) | Palo Alto, California | Present | Winter and/or Spring |
 |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Winter-2021-Co-op---Software-Engineer--Security-_JR69672?d=cta-hm-explore-interns-1) | Palo Alto, CA and Seattle, WA | Present | |
+|  [Tesla](https://www.tesla.com/careers/job/software-integrationengineeringinternshipspring2021and-orsummer2021-68846) | Palo Alto, California | Present | Winter and/or Spring | 
+|  [RBC](https://jobs.rbc.com/ca/en/job/265217/Developer-RBC-Amplify-2021) | Toronto, Canada | Present | |
+|  [Ocient](http://www.ocient.com/careers?gh_jid=4105471003&gh_src=PittCSC) | Chicago, IL | Present | |
+|  [Fullscript](https://naturalpartnersfullscript.bamboohr.com/jobs/view.php?id=262&source=indeed&src=indeed&postedDate=2020-08-27) | Ottawa, Canada | Present | |
+|  [Explorance](https://explorance.applytojob.com/apply/ixDpOswXIt/Software-Development-Internship) | Montreal, Canada | Present | |
