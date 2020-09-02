@@ -36,7 +36,7 @@ To contribute:
 |  [Northrup Grumman](https://lensa.com/2021-spring-co-op-technical-cyber-software-cincinnati-oh-jobs/cincinnati/jd/1e1ce769ba2488a1530e5741402ed9e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Closed | Needs government clearance + Citizenship | 
 |  [CloudOps](https://www.linkedin.com/jobs/view/1957253149/) | Montreal, CA | Closed | |
 |  [Intuit](https://jobs.intuit.com/job/-/-/27595/16929965) | Mississauga, Canada | Present | | |
-|  [GE Transportation](https://www.indeed.com/q-Spring-Software-Engineering-Internship-jobs.html?vjk=e7064af9e0e930e4) | Erie, PA | Present | |
+|  [GE Transportation](https://www.indeed.com/q-Spring-Software-Engineering-Internship-jobs.html?vjk=e7064af9e0e930e4) | Erie, PA | Closed | |
 |  [Hackerrank](https://www.linkedin.com/jobs/view/1959988765/) | Remote or Oregon, US | Present | |
 |  [Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/Spring-2021---Software-Engineer-Intern_R380)| Denver, CO | Present | No housing/relocation | 
 |  [HubSpot](https://www.hubspot.com/careers/jobs/807217?gh_jid=807217&gh_src=cifv021)| Cambridge, MA | Present | Sponsorship not available |
@@ -48,7 +48,7 @@ To contribute:
 |  [Collins Aerospace](https://www.linkedin.com/jobs/view/software-engineering-co-op-spring-summer-2021-at-collins-aerospace-2001893026/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Richardson, TX | Present | DoD Clearance required |
 |  [Innovative Systems](http://career.innovativesystems.com/apply/9sdyztiZlK/InternshipCoop-Software-Engineering-Development-Spring-2021?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Pittsburg, PA | Present | | 
 |  [Leidos](https://www.linkedin.com/jobs/view/engineering-co-op-spring-2021-at-leidos-1975522772/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Bethesda, MD | Present | 6-12 month co-op. Secret Clearance required | 
-|  [Rockwell Collins](https://jobs.aviationjobnet.com/job/2369581/software-engineer-intern-summer-2021-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cedar Rapids, IA | Present | US Citizenship required | 
+|  [Rockwell Collins](https://jobs.aviationjobnet.com/job/2369581/software-engineer-intern-summer-2021-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cedar Rapids, IA | Closed | US Citizenship required | 
 |  [Shopify](https://www.shopify.com/careers/developer-internships-data-science-internships-winter-2021-826aeb) | Americas | Present | | 
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Canada-Toronto/Software-QA-Engineer-Intern---Spring-2021_JR1933347) | Toronto, Canada | Present | QA |
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Canada-Remote/Deep-Learning-Engineering-Intern--Content---Technology---Spring-2021_JR1933350) | Canada, Remote | Present | Deep Learning |
