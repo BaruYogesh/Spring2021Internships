@@ -25,8 +25,8 @@ To contribute:
 
 | Name  |  Location |  Application Period |  Notes |
 |---|---|---|--|
-|  [Coursera](https://jobs.lever.co/coursera/f3068d7c-e22b-4510-9622-2f54802c8c90) | Toronto, CA | Present | |
-|  [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Spring-2021-Internship--Engineering_R3760?mode=job&iis=Job+Board&iisn=Indeed) | Multiple | Present | Must be a US citizen or Green card holder |
+|  [Coursera](https://jobs.lever.co/coursera/f3068d7c-e22b-4510-9622-2f54802c8c90) | Toronto, CA | Closed | |
+|  [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Spring-2021-Internship--Engineering_R3760?mode=job&iis=Job+Board&iisn=Indeed) | Multiple | Closed | Must be a US citizen or Green card holder |
 |  [Second Order Effects](https://soeffects.com/careers/?gh_jid=4103302003&gh_src=1215890d3us) | El Segundo, CA | Present | |
 |  [Cambly](https://www.linkedin.com/jobs/view/software-engineering-intern-winter-spring-2021-at-cambly-inc-1828003093/) | SF | Present | |
 |  [Apple](https://jobs.apple.com/en-us/details/200180413/software-engineering-internship?team=STDNT) | Cupertino, CA | Present | Open year-round |
