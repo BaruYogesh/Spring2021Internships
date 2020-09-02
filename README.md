@@ -60,6 +60,7 @@ To contribute:
 |  [Yext](https://boards.greenhouse.io/yext/jobs/2291674) | NYC | Present | |
 |  [Citi](https://citi.avature.net/careers/ProjectDetail/Mississauga-Ontario-Canada-NAM-ICG-Technology-Summer-Production-Support-Analyst-Mississauga-2021-/11859) | Mississauga, Canada | Present | |
 |  [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265934) | Americas | Present | Make sure to apply on Jumpstart! |
+|  [Celo](https://jobs.lever.co/celo/93d056ae-349f-4699-a3b9-6ab7edaf1540) | U.S (remote) | Present | |
 |  [Coursera](https://jobs.lever.co/coursera/f3068d7c-e22b-4510-9622-2f54802c8c90) | Toronto, CA | Closed | |
 |  [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Spring-2021-Internship--Engineering_R3760?mode=job&iis=Job+Board&iisn=Indeed) | Multiple | Closed | Must be a US citizen or Green card holder |
 |  [Northrup Grumman](https://lensa.com/2021-spring-co-op-technical-cyber-software-cincinnati-oh-jobs/cincinnati/jd/1e1ce769ba2488a1530e5741402ed9e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Closed | Needs government clearance + Citizenship | 
