@@ -65,3 +65,4 @@ To contribute:
 |  [Explorance](https://explorance.applytojob.com/apply/ixDpOswXIt/Software-Development-Internship) | Montreal, Canada | Present | |
 |  [Yext](https://boards.greenhouse.io/yext/jobs/2291674) | NYC | Present | |
 |  [Citi](https://citi.avature.net/careers/ProjectDetail/Mississauga-Ontario-Canada-NAM-ICG-Technology-Summer-Production-Support-Analyst-Mississauga-2021-/11859) | Mississauga, Canada | Present | |
+|  [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265934) | Americas | Present | Make sure to apply on Jumpstart! |
