@@ -66,6 +66,7 @@ To contribute:
 |  [ATB Financial](https://apply.workable.com/atb-financial/j/6C9539DC7B/) | Vancouver, BC | Present | |
 |  [Gatik AI](https://jobs.lever.co/gatik/174edfee-82f7-4f4b-9fd4-fd8fb996f6a1) | Toronto, ON | Present | |
 |  [Clio](https://boards.greenhouse.io/goclio/jobs/566126) | Vancouver, BC | Present | 8 months only (No 4 month internships) | |
+|  [Repl.it](https://jst.me/c6ze) | Remote | Present | |
 |  [Coursera](https://jobs.lever.co/coursera/f3068d7c-e22b-4510-9622-2f54802c8c90) | Toronto, CA | Closed | |
 |  [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Spring-2021-Internship--Engineering_R3760?mode=job&iis=Job+Board&iisn=Indeed) | Multiple | Closed | Must be a US citizen or Green card holder |
 |  [Northrup Grumman](https://lensa.com/2021-spring-co-op-technical-cyber-software-cincinnati-oh-jobs/cincinnati/jd/1e1ce769ba2488a1530e5741402ed9e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Closed | Needs government clearance + Citizenship | 
