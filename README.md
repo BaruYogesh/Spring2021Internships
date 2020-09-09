@@ -43,7 +43,7 @@ To contribute:
 |  [Collins Aerospace](https://www.linkedin.com/jobs/view/software-engineering-co-op-spring-summer-2021-at-collins-aerospace-2001893026/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Richardson, TX | Present | DoD Clearance required |
 |  [Innovative Systems](http://career.innovativesystems.com/apply/9sdyztiZlK/InternshipCoop-Software-Engineering-Development-Spring-2021?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Pittsburg, PA | Present | | 
 |  [Leidos](https://www.linkedin.com/jobs/view/engineering-co-op-spring-2021-at-leidos-1975522772/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Bethesda, MD | Present | 6-12 month co-op. Secret Clearance required | 
-|  [Shopify](https://www.shopify.com/careers/developer-internships-data-science-internships-winter-2021-826aeb) | Americas | Present | | 
+|  [Shopify](https://www.shopify.com/careers/developer-internships-data-science-internships-winter-2021-826aeb) | Americas | Present | Closed. | 
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Canada-Toronto/Software-QA-Engineer-Intern---Spring-2021_JR1933347) | Toronto, Canada | Present | QA |
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Canada-Remote/Deep-Learning-Engineering-Intern--Content---Technology---Spring-2021_JR1933350) | Canada, Remote | Present | Deep Learning |
 |  [Coinbase](https://www.coinbase.com/careers/positions/1724656) | San Francisco, CA - Remote | Present | Winter/Summer 2021 | 
@@ -68,7 +68,9 @@ To contribute:
 |  [Clio](https://boards.greenhouse.io/goclio/jobs/566126) | Vancouver, BC | Present | 8 months only (No 4 month internships) | |
 |  [Repl.it](https://jst.me/c6ze) | Remote | Present | |
 |  [Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2317781) | NYC | Present | | 
-|  [Coursera](https://jobs.lever.co/coursera/f3068d7c-e22b-4510-9622-2f54802c8c90) | Toronto, CA | Closed | |
+|  [Coursera](https://jobs.lever.co/coursera/f3068d7c-e22b-4510-9622-2f54802c8c90) | Toronto, CA | 
+
+| |
 |  [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Spring-2021-Internship--Engineering_R3760?mode=job&iis=Job+Board&iisn=Indeed) | Multiple | Closed | Must be a US citizen or Green card holder |
 |  [Northrup Grumman](https://lensa.com/2021-spring-co-op-technical-cyber-software-cincinnati-oh-jobs/cincinnati/jd/1e1ce769ba2488a1530e5741402ed9e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Closed | Needs government clearance + Citizenship | 
 |  [CloudOps](https://www.linkedin.com/jobs/view/1957253149/) | Montreal, CA | Closed | |
