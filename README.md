@@ -75,3 +75,8 @@ To contribute:
 |  [Repl.it](https://jst.me/c6ze) | Remote | Present | |
 |  [Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2317781) | NYC | Present | | 
 |  [Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Winter-2021-Intern---Software-Engineer---Tableau_JR68902-1?source=LinkedIn_Jobs) | Vancouver, BC | Present | |
+|  [Axiom Zen](https://jobs.lever.co/axiomzen/1a4e6727-9fba-4758-b7f9-a80c933ba3e4/apply?lever-source=LinkedIn) | Vancouver, BC | Present | |
+|  [Intact](https://careers.intact.ca/ca/fr/job/IFCOUS12661/Data-Science-4-Month-Co-op-Internship?utm_source=linkedin&utm_medium=phenom-feeds) | Vancouver, BC | Present | |
+|  [Deloitte](https://careers.deloitte.ca/job/Toronto-IT-Co-op%2C-Support-Services-Greenhouse-Winter-2021-Co-op-%28Jan-April%29-ON-M5C-3G7/672425500/?utm_source=LINKEDIN&utm_medium=referrer&?src=JB-12762) | Toronto, ON | Present | |
+|  [Huawei](https://jobs.smartrecruiters.com/HuaweiTechnologiesCanadaCoLtd/743999718772910-software-engineer-coop-position-) | Burnaby, BC | Present | |
+|  [A Thinking Ape](https://boards.greenhouse.io/athinkingape/jobs/2240800?gh_src=aba3facd1us) | Vancouver, BC | Present | |
