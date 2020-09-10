@@ -38,7 +38,7 @@ To contribute:
 |  [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0l1nco/aad1) | Chicago, IL | Present | Sponsorship: Not available for this position |
 |  [Astranis](https://jobs.lever.co/astranis/d92ad6a7-7210-4027-9605-67f35a7c95c6?lever-source=Indeed) | SF | Present | Citizenship/Green card required |
 |  [Addepar](https://boards.greenhouse.io/addepar1/jobs/4796909002) | NYC | Present | |  
-|  [Intuit](https://jobs.intuit.com/job/-/-/27595/16929965) | Mississauga, ON | Present | | |
+|  [Intuit](https://jobs.intuit.com/job/-/-/27595/16929965) | Mississauga, Canada | Present | | |
 |  [Hackerrank](https://www.linkedin.com/jobs/view/1959988765/) | Remote or Oregon, US | Present | |
 |  [Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/Spring-2021---Software-Engineer-Intern_R380)| Denver, CO | Present | No housing/relocation | 
 |  [HubSpot](https://www.hubspot.com/careers/jobs/807217?gh_jid=807217&gh_src=cifv021)| Cambridge, MA | Present | Sponsorship not available |
