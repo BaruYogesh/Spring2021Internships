@@ -82,3 +82,4 @@ To contribute:
 |  [A Thinking Ape](https://boards.greenhouse.io/athinkingape/jobs/2240800?gh_src=aba3facd1us) | Vancouver, BC | Present | |
 |  [PagerDuty](https://jobs.lever.co/pagerduty/0e308ff0-557b-482d-8f4d-d0ff583c924e) | Remote | Present | |
 |  [Rubrik](https://boards.greenhouse.io/rubrik/jobs/2331219) | Palo Alto, CA | Present | |
+|  [Demonware](https://careers.demonware.net/job/R003114/Software-Development-Intern) | Vancouver, BC | Present | Demonware is a subsidary of Activision Blizard |
