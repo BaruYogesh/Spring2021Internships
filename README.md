@@ -25,13 +25,13 @@ To contribute:
 
 | Name  |  Location |  Application Period |  Notes |
 |---|---|---|--|
-|  [Coursera](https://jobs.lever.co/coursera/f3068d7c-e22b-4510-9622-2f54802c8c90) | Toronto, ON | Closed | |
 |  [Shopify](https://www.shopify.com/careers/developer-internships-data-science-internships-winter-2021-826aeb) | Americas | Closed | | 
 |  [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Spring-2021-Internship--Engineering_R3760?mode=job&iis=Job+Board&iisn=Indeed) | Multiple | Closed | Must be a US citizen or Green card holder |
 |  [Northrup Grumman](https://lensa.com/2021-spring-co-op-technical-cyber-software-cincinnati-oh-jobs/cincinnati/jd/1e1ce769ba2488a1530e5741402ed9e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cincinnati, OH | Closed | Needs government clearance + Citizenship | 
 |  [CloudOps](https://www.linkedin.com/jobs/view/1957253149/) | Montreal, QC | Closed | |
 |  [Rockwell Collins](https://jobs.aviationjobnet.com/job/2369581/software-engineer-intern-summer-2021-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cedar Rapids, IA | Closed | US Citizenship required | 
 |  [GE Transportation](https://www.indeed.com/q-Spring-Software-Engineering-Internship-jobs.html?vjk=e7064af9e0e930e4) | Erie, PA | Closed | |
+|  [Coursera](https://jobs.lever.co/coursera/f3068d7c-e22b-4510-9622-2f54802c8c90) | Toronto, ON | Present | |
 |  [Second Order Effects](https://soeffects.com/careers/?gh_jid=4103302003&gh_src=1215890d3us) | El Segundo, CA | Present | |
 |  [Cambly](https://www.linkedin.com/jobs/view/software-engineering-intern-winter-spring-2021-at-cambly-inc-1828003093/) | SF | Present | |
 |  [Apple](https://jobs.apple.com/en-us/details/200180413/software-engineering-internship?team=STDNT) | Cupertino, CA | Present | Open year-round |
