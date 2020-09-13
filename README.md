@@ -83,3 +83,4 @@ To contribute:
 |  [PagerDuty](https://jobs.lever.co/pagerduty/0e308ff0-557b-482d-8f4d-d0ff583c924e) | Remote | Present | |
 |  [Rubrik](https://boards.greenhouse.io/rubrik/jobs/2331219) | Palo Alto, CA | Present | |
 |  [Demonware](https://careers.demonware.net/job/R003114/Software-Development-Intern) | Vancouver, BC | Present | Demonware is a subsidary of Activision Blizard |
+|  [Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4868921002&gh_src=62a881d62#grnhse_app)| San Francisco, CA | Present | | 
