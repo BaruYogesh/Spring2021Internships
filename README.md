@@ -85,3 +85,4 @@ To contribute:
 |  [Demonware](https://careers.demonware.net/job/R003114/Software-Development-Intern) | Vancouver, BC | Present | Demonware is a subsidary of Activision Blizard |
 |  [Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4868921002&gh_src=62a881d62#grnhse_app)| San Francisco, CA | Present | | 
 |  [Cisco Meraki](https://jobs.cisco.com/jobs/IsAJob?projectId=1297887&source=Other+Campus+Recruiting&tags=fy21universitypost) | San Francisco, CA | Present | |
+|  [Verkada](https://jobs.lever.co/verkada/f8c2311a-b4e1-4c9b-8924-9294d44c4881/apply) | Verkada HQ | Present | |
