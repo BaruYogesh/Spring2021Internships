@@ -58,7 +58,7 @@ To contribute:
 |  [Later](https://jobs.lever.co/later/cf7fa0af-0839-425b-af28-041c8a95ec54) | Vancouver, BC | Present | [Front End](https://jobs.lever.co/later/67216d43-e2d6-442b-8d41-51b2dae64c7f), [Mobile Dev](https://jobs.lever.co/later/716c04fa-70d9-45f6-b142-f1dda5a4cafd) |
 |  [BMO](https://bmo.wd3.myworkdayjobs.com/Campus/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Toronto, ON | Present | |
 |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Winter-2021-Co-op---Software-Engineer--Security-_JR69672?d=cta-hm-explore-interns-1) | Palo Alto, CA and Seattle, WA | Present | |
-|  [Tesla](https://www.tesla.com/careers/job/software-integrationengineeringinternshipspring2021and-orsummer2021-68846) | Palo Alto, California | Present | Winter and/or Spring | 
+|  [Tesla](https://www.tesla.com/careers/job/software-integrationengineeringinternshipspring2021and-orsummer2021-68846) | Palo Alto, California | Present | Winter and/or Spring; [Firmware](https://www.tesla.com/en_CA/careers/job/vehicle-hardwareengineeringinternship-firmwarespring2021-70037) | 
 |  [RBC](https://jobs.rbc.com/ca/en/job/265217/Developer-RBC-Amplify-2021) | Toronto, ON | Present | [General Application](https://jobs.rbc.com/ca/en/job/RBCAA0088271938EXTERNALENCA/Software-Developer-Winter-2021-Student-Opportunities?utm_source=LinkedIn&utm_medium=phenom-feeds&utm_campaign=rbc_linkedin) |
 |  [Ocient](http://www.ocient.com/careers?gh_jid=4105471003&gh_src=PittCSC) | Chicago, IL | Present | |
 |  [Fullscript](https://naturalpartnersfullscript.bamboohr.com/jobs/view.php?id=262&source=indeed&src=indeed&postedDate=2020-08-27) | Ottawa, ON | Present | |
@@ -86,3 +86,11 @@ To contribute:
 |  [Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4868921002&gh_src=62a881d62#grnhse_app)| San Francisco, CA | Present | | 
 |  [Cisco Meraki](https://jobs.cisco.com/jobs/IsAJob?projectId=1297887&source=Other+Campus+Recruiting&tags=fy21universitypost) | San Francisco, CA | Present | |
 |  [Verkada](https://jobs.lever.co/verkada/f8c2311a-b4e1-4c9b-8924-9294d44c4881/apply) | Verkada HQ | Present | |
+|  [Splunk](https://jobs.jobvite.com/splunk/job/opYwdfwQ) | Vancouver, BC | Present | [Front End](https://jobs.jobvite.com/splunk/job/oFYwdfw6) | Present | |
+|  [PagerDuty](https://jobs.lever.co/pagerduty/0e308ff0-557b-482d-8f4d-d0ff583c924e) | Remote | Present | |
+|  [D2L](https://www.d2l.com/careers/jobs/software-developer-winter-2021-co-op/2336920/?gh_src=bc4c28141us) | Kitchner, ON | Present | |
+|  [Telus](https://telus.taleo.net/careersection/10560/jobdetail.ftl?lang=en&job=ROL04450-20&src=UNV-11960) | Vancouver, BC | Present | |
+|  [Ciena](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Co-op-Intern-Software-Development_R013715) | Ottawa, ON | Present | |
+|  [Bolt](https://jobs.lever.co/bolt/42bdad97-98df-47bb-ad64-93652494f2ab) | Toronto, ON | Present | |
+|  [Cockroach Labs](https://www.linkedin.com/jobs/view/2150432284) | New York, NY | Present | |
+|  [Asana](https://boards.greenhouse.io/asana/jobs/2342909?gh_src=89bd80a91) | San Francisco, CA | Present | |
