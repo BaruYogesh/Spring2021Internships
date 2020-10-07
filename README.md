@@ -96,3 +96,4 @@ To contribute:
 |  [Asana](https://boards.greenhouse.io/asana/jobs/2342909?gh_src=89bd80a91) | San Francisco, CA | Present | |
 |  [Viacom CBS](https://viacomcbs.careers/virtual-usa/spring-2021-sportsline-software-engineering-intern/E8192D40341846EABB7AA3BCA3B6AEBA/job/) | Remote | Present | |
 |  [Snowflake](https://careers.snowflake.com/us/en/job/4867912002/Software-Engineer-Intern-Front-End-Spring-2021) | San Mateo, CA | Present | |
+|  [Nokia](https://careers.nokia.com/jobs/enablement-engineer-spring-2021-co-op-52971) | Austin, TX | Present | |
