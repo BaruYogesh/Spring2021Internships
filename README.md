@@ -97,3 +97,5 @@ To contribute:
 |  [Viacom CBS](https://viacomcbs.careers/virtual-usa/spring-2021-sportsline-software-engineering-intern/E8192D40341846EABB7AA3BCA3B6AEBA/job/) | Remote | Present | |
 |  [Snowflake](https://careers.snowflake.com/us/en/job/4867912002/Software-Engineer-Intern-Front-End-Spring-2021) | San Mateo, CA | Present | |
 |  [Nokia](https://careers.nokia.com/jobs/enablement-engineer-spring-2021-co-op-52971) | Austin, TX | Present | |
+|  [MasterClass](https://careers.masterclass.com/index.html?gh_jid=2375042)| Remote (CA, AZ, NY) | Present | |
+|  [Roche](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Software-Quality-Automation-Intern_202008-122345-1) | Santa Clara, CA | Present | | 
