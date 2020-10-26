@@ -101,3 +101,6 @@ To contribute:
 |  [Warner Media](https://www.warnermediacareers.com/job/new-york/virtual-software-engineer-internships-spring-2021/1174/17666460?codes=NIND) | Virtual | Present | |
 |  [Disney](https://jobs.disneycareers.com/job/-/-/391/17730673?cid=14187) | Remote | Present | |
 |  [Amazon](https://www.amazon.jobs/en/jobs/1303781/software-development-engineer-internship-winter-2021-us) | Seattle, WA | Present | |
+|  [Lenovo](https://careers.peopleclick.com/careerscp/client_lenovo/external/results/jobDetails/jobDetail.html?jobPostId=155489&localeCode=en-us) | Raleigh, NC | Present | |
+|  [Cirrus Logic](http://jobs.jobvite.com/cirruslogic/job/oYQ8cfwS) | Austin, TX | Present | |
+|  [Avalara](https://www.avalara.com/us/en/about/jobs/job-details.o9Urdfwr.html) | Seattle, WA | Present | |
