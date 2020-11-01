@@ -1,4 +1,4 @@
-﻿# Spring 2021 Internships
+# Spring 2021 Internships
 2021 Spring Internships in Tech! Thanks to [ayushupneja](https://github.com/ayushupneja/fall2020internships) for making the list for Fall 2020. Thanks to [a37h](github.com/a37h) for the python script. Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration. Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for making a similar document for the 2020 season for more formatting inspiration! Utilize the Python Script to receive an outputted Excel-Friendly version
 
 > Sites used to find internships include LinkedIn, Indeed, Glassdoor, and AngelList (startups).
@@ -101,3 +101,6 @@ To contribute:
 |  [Warner Media](https://www.warnermediacareers.com/job/new-york/virtual-software-engineer-internships-spring-2021/1174/17666460?codes=NIND) | Virtual | Present | |
 |  [Disney](https://jobs.disneycareers.com/job/-/-/391/17730673?cid=14187) | Remote | Present | |
 |  [Amazon](https://www.amazon.jobs/en/jobs/1303781/software-development-engineer-internship-winter-2021-us) | Seattle, WA | Present | |
+|  [Lenovo](https://careers.peopleclick.com/careerscp/client_lenovo/external/results/jobDetails/jobDetail.html?jobPostId=155489&localeCode=en-us) | Raleigh, NC | Present | |
+|  [Cirrus Logic](http://jobs.jobvite.com/cirruslogic/job/oYQ8cfwS) | Austin, TX | Present | |
+|  [Avalara](https://www.avalara.com/us/en/about/jobs/job-details.o9Urdfwr.html) | Seattle, WA | Present | |
