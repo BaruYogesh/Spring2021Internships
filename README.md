@@ -80,7 +80,7 @@ To contribute:
 |  [Deloitte](https://careers.deloitte.ca/job/Toronto-IT-Co-op%2C-Support-Services-Greenhouse-Winter-2021-Co-op-%28Jan-April%29-ON-M5C-3G7/672425500/?utm_source=LINKEDIN&utm_medium=referrer&?src=JB-12762) | Toronto, ON | Closed | |
 |  [Huawei](https://jobs.smartrecruiters.com/HuaweiTechnologiesCanadaCoLtd/743999718772910-software-engineer-coop-position-) | Burnaby, BC | Closed | |
 |  [A Thinking Ape](https://boards.greenhouse.io/athinkingape/jobs/2240800?gh_src=aba3facd1us) | Vancouver, BC | Closed | |
-|  [PagerDuty](https://jobs.lever.co/pagerduty/0e308ff0-557b-482d-8f4d-d0ff583c924e) | Remote | Present | |
+|  [PagerDuty](https://jobs.lever.co/pagerduty/0e308ff0-557b-482d-8f4d-d0ff583c924e) | Remote | Present | [Social Impact Fellowship](https://www.ventureloop.com/ventureloop/job/1505818/pagerduty/social-impact-fellowship) |
 |  [Rubrik](https://boards.greenhouse.io/rubrik/jobs/2331219) | Palo Alto, CA | Present | |
 |  [Demonware](https://careers.demonware.net/job/R003114/Software-Development-Intern) | Vancouver, BC | Present | Demonware is a subsidary of Activision Blizard |
 |  [Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4868921002&gh_src=62a881d62#grnhse_app)| San Francisco, CA | Closed | | 
