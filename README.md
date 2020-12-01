@@ -104,3 +104,4 @@ To contribute:
 |  [Lenovo](https://careers.peopleclick.com/careerscp/client_lenovo/external/results/jobDetails/jobDetail.html?jobPostId=155489&localeCode=en-us) | Raleigh, NC | Present | |
 |  [Cirrus Logic](http://jobs.jobvite.com/cirruslogic/job/oYQ8cfwS) | Austin, TX | Present | |
 |  [Avalara](https://www.avalara.com/us/en/about/jobs/job-details.o9Urdfwr.html) | Seattle, WA | Present | |
+|  [Lulumelon](https://careers.lululemon.com/en_US/careers/JobDetail/Seattle-Washington-United-States-Associate-Software-Engineer/9319) | Seattle, WA | Present | January - June 2021 |
